@@ -1,4 +1,6 @@
 # using alternative emotion detection method instaed of standard  model:
+# ater debugging the first model:
+# for live detection only:
 import cv2
 import numpy as np
 import time
